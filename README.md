@@ -12,6 +12,7 @@ More information on cancer in the UK & methods to support fundraising / treatmen
   <li><a href="#methodology / approach">Methodology / Approach</a></li>
   <li><a href="#key findings">Key Findings</a></li>
   <li><a href="#conclusions & insights">Conclusions & Insights</a></li>
+  <li><a href="#challenges & limitations">Challenges & Limitations</a></li>
 </ul>
 
 <hr>
@@ -51,3 +52,9 @@ More information on cancer in the UK & methods to support fundraising / treatmen
 <li>Investments in cancer research hold the potential to revolutionise care. Advancements in genomic medicine, for instance, enable personalised treatment plans tailored to an individual’s genetic makeup, improving efficacy and reducing side effects. Research into risk factors, prevention methods, and cutting-edge therapies, like immunotherapy or targeted treatments, can help minimise the impact of rising cancer rates over time.</li>
 <li>Addressing socio-economic and regional disparities in cancer care is vital. Many low-income countries face challenges like limited access to healthcare facilities, expensive treatments, and shortages of trained professionals. National Health Systems can work collaboratively to provide funding, resources, and training programs to ensure equitable access to life-saving interventions.</li>
 <li>Ultimately, prioritising a comprehensive, well-funded approach that combines prevention, education, early detection, equitable care, and research can help mitigate the global burden of cancer. Such strategies not only save lives but also improve the quality of life for patients and their families. By taking decisive action now, we can create a future where the rising tide of cancer rates is met with resilience and hope.</li>
+
+<hr>
+<h2 id="challenges & limitations">Challenges & Limitations</h2>
+
+<li>Cancer rates are particularly high in Asia, Europe, and the Americas; however, this may partly reflect disparities in data collection, with some continents lacking reliable cancer statistics. Improving data reliability in underrepresented regions could reveal hidden trends and provide a more accurate global picture.</li>
+<li>Environmental factors like air pollution and exposure to carcinogens are critical areas to investigate, as they likely contribute to the rising cancer rates. Regions with industrial activity, urbanisation, and weak regulations for environmental protection may experience heightened risks. Examining these factors can not only enhance understanding but also inform targeted prevention and intervention strategies.</li>
