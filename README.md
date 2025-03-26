@@ -1,6 +1,6 @@
 # WHO Survey - Cancer Rates Between 1990-2008 (Tableau) Dashboard & Analysis
 
-The goal of this project was to design an intuitive dashboard showcasing key insights from WHO (World Health Organisation) Survery cancer rate data (1990–2008).
+The goal of this project was to design an **intuitive dashboard** showcasing key insights from WHO (World Health Organisation) Survery cancer rate data (1990–2008).
 
 **Cancer affects 1 in 2 people throughout our lifetime**. Tracking trends in cancer rates and supporting data across the globe helps our understanding of cancer incidence, mortality, survival, risk, and diagnosis and treatment.
 
